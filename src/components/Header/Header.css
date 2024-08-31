@@ -1,0 +1,13 @@
+.active {
+    color: #23BE0A;
+    font-weight: 600;
+    background-color: rgba(35, 190, 10, 0.1);
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}

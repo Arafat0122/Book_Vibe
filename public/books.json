@@ -1,0 +1,83 @@
+[
+      {
+        "bookId": 1,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+        "review": "To Kill a Mockingbird is a timeless classic written by Harper Lee. Set in the deep south during the 1930s, it tells the story of Atticus Finch, a lawyer who defends a black man accused of raping a white woman. Through the eyes of Scout Finch, Atticus's daughter, the novel explores themes of racial injustice, morality, and compassion. With its poignant narrative and unforgettable characters, To Kill a Mockingbird remains a must-read for readers of all ages, offering valuable lessons about empathy and standing up for what is right.",
+        "totalPages": 281,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Classics", "Legal Drama"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+      },
+      {
+        "bookId": 2,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://m.media-amazon.com/images/I/618fZRMMxVL._AC_UF1000,1000_QL80_.jpg",
+        "review": "The Great Gatsby, penned by F. Scott Fitzgerald, is a masterpiece of American literature. Set in the roaring twenties, the novel follows the enigmatic Jay Gatsby and his obsession with Daisy Buchanan, a woman from his past. Through lavish parties, glittering wealth, and tragic love affairs, Fitzgerald paints a vivid portrait of the Jazz Age and the pursuit of the elusive American Dream. With its lyrical prose and evocative imagery, The Great Gatsby continues to captivate readers with its exploration of themes such as love, illusion, and the corrupting influence of money.",
+        "totalPages": 180,
+        "rating": 4.2,
+        "category": "Fiction",
+        "tags": ["Classics", "Romance"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+      },
+      {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://m.media-amazon.com/images/I/612ADI+BVlL._AC_UF1000,1000_QL80_.jpg",
+        "review": "George Orwell's 1984 is a dystopian novel that remains as relevant today as it was when first published. Set in a totalitarian society where individuality is suppressed and surveillance is omnipresent, the story follows Winston Smith as he rebels against the oppressive regime of Big Brother. Through chillingly prophetic themes of government surveillance, propaganda, and thought control, Orwell's masterpiece serves as a stark warning against the dangers of authoritarianism and the erosion of freedom. With its haunting depiction of a future ruled by fear and oppression, 1984 is a thought-provoking and unsettling exploration of power and resistance.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Dystopian", "P. Fiction"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+      },
+      {
+        "bookId": 4,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://m.media-amazon.com/images/I/716E6dQ4BXL._AC_UF1000,1000_QL80_.jpg",
+        "review": "In Sapiens: A Brief History of Humankind, Yuval Noah Harari takes readers on a captivating journey through the history of our species. From the emergence of Homo sapiens in Africa to the rise of civilizations and the technological revolutions that have shaped our world, Harari offers a sweeping narrative that challenges conventional wisdom and prompts readers to rethink their understanding of human history. With its engaging prose and thought-provoking insights, Sapiens offers a compelling exploration of what it means to be human, inviting readers to ponder questions about our past, present, and future.",
+        "totalPages": 443,
+        "rating": 4.7,
+        "category": "Non-fiction",
+        "tags": ["History", "Science"],
+        "publisher": "Harper",
+        "yearOfPublishing": 2011
+      },
+      {
+        "bookId": 5,
+        "bookName": "The Hobbit: Adventure Through Middle-earth",
+        "author": "J.R.R. Tolkien",
+        "image": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+        "review": "The Hobbit, written by J.R.R. Tolkien, is a beloved fantasy novel that takes readers on an extraordinary adventure through Middle-earth. Follow Bilbo Baggins, a humble hobbit, as he sets out on a quest to reclaim the lost treasure of the dwarves from the fearsome dragon Smaug. Along the way, Bilbo encounters trolls, elves, goblins, and other fantastical creatures, and discovers courage and heroism within himself. With its richly imagined world, memorable characters, and timeless themes of bravery and friendship, The Hobbit continues to enchant readers of all ages, inspiring generations of fantasy writers and fans.",
+        "totalPages": 310,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": ["Adventure", "High Fantasy"],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+      },
+
+      {
+        "bookId": 6,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://m.media-amazon.com/images/I/71RVt35ZAbL._AC_UF1000,1000_QL80_.jpg",
+        "review": "Harry Potter and the Sorcerer's Stone, the first book in the Harry Potter series, introduces readers to the magical world created by J.K. Rowling. Follow the young wizard Harry Potter as he discovers his true identity and begins his education at Hogwarts School of Witchcraft and Wizardry. With its imaginative storytelling, richly developed characters, and captivating adventures, this beloved fantasy novel has enchanted readers of all ages, sparking a global phenomenon and inspiring countless fans around the world.",
+        "totalPages": 320,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Wizards", "Magic"],
+        "publisher": "Bloomsbury Publishing",
+        "yearOfPublishing": 1997,
+        "url": "https://www.amazon.com/s?k=harry+potter+and+the+sorcerer%27s+stone+book"
+      }
+    ]
+  
