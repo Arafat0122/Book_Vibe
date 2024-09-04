@@ -12,7 +12,7 @@ Welcome to the Book Vibe website! This site is a comprehensive platform designed
 
 ## Features
 
-- **Home Page**: Introduction to the site and its purpose.
+- **Home Page**: Introduction to the site and its purpose with relevant images.
 - **Books Tracking**: View and manage books with functionalities to mark books as 'Read' or add them to a 'Wishlist'.
 - **Login and Signup**: User authentication to access personalized features.
 - **Newsletter Subscription**: Subscribe to newsletters for updates and book recommendations.
